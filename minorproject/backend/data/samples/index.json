@@ -1,0 +1,29 @@
+[
+  {
+    "id": "air_quality",
+    "name": "Urban air quality — six Indian cities",
+    "file": "city_air_quality.csv",
+    "rows": 5497,
+    "cols": 7,
+    "description": "Daily PM2.5, NO₂ and weather for six cities, Jan 2023 – Jun 2025. Includes sensor gaps and duplicate uploads. Synthetic demonstration data (seeded generator).",
+    "synthetic": true
+  },
+  {
+    "id": "students",
+    "name": "Student performance survey",
+    "file": "student_performance.csv",
+    "rows": 1400,
+    "cols": 11,
+    "description": "1,400 students: study habits, attendance, sleep, screen time and final exam scores. Synthetic demonstration data (seeded generator).",
+    "synthetic": true
+  },
+  {
+    "id": "retail",
+    "name": "Regional retail sales",
+    "file": "retail_sales.csv",
+    "rows": 864,
+    "cols": 8,
+    "description": "Monthly sales by region and category, 2021 – 2025, with promotions and returns. Synthetic demonstration data (seeded generator).",
+    "synthetic": true
+  }
+]
